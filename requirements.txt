@@ -1,5 +1,9 @@
-
-numpy
-matplotlib
-opencv-python
+torch
+torchvision
+torchaudio
 scikit-learn
+scikit-image
+matplotlib
+numpy
+Pillow
+efficientnet_pytorch
