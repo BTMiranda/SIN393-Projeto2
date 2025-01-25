@@ -63,7 +63,7 @@ O trabalho busca aplicar conceitos de visão computacional e aprendizado de máq
 
 ## Resultados Obtidos
 
-- **Acurácia Média**:
+- **Acurácia**:
   - ResNet50: 95.36%
   - EfficientNet-B0: 94.96%
   - AlexNet: 93.75%
