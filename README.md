@@ -13,6 +13,13 @@ Este repositório contém o projeto desenvolvido na disciplina **SIN 393 - Intro
 
 ---
 
+## Apresentação do Projeto
+
+Um vídeo explicativo foi gravado para apresentar os principais resultados e metodologias do projeto. Ele pode ser acessado pelo seguinte link:
+
+- **[Apresentação do Projeto](http://teste.com)**
+---
+
 ## Objetivo do Projeto
 
 O objetivo geral deste trabalho é desenvolver um projeto completo de classificação de imagens utilizando Redes Neurais Convolucionais (CNNs), abrangendo experimentação, análise de resultados, documentação e apresentação.
