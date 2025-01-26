@@ -17,7 +17,7 @@ Este repositório contém o projeto desenvolvido na disciplina **SIN 393 - Intro
 
 Um vídeo explicativo foi gravado para apresentar os principais resultados e metodologias do projeto. Ele pode ser acessado pelo seguinte link:
 
-- **[Apresentação do Projeto](http://teste.com)**
+- **[Apresentação do Projeto](https://www.youtube.com/watch?v=YHQ6fi3SFdQ)**
 ---
 
 ## Objetivo do Projeto
